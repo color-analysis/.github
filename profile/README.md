@@ -1,6 +1,7 @@
-# AIColorAnalysis
+# AI Color Analysis
 
-🎨 **AIColorAnalysis.ai** is an AI-powered personal color analysis tool that helps you discover the colors that best enhance your natural features. By uploading a photo, the system analyzes your skin tone, hair color, and facial contrast to generate a personalized color palette and styling suggestions. :contentReference[oaicite:1]{index=1}
+🎨 **AIColorAnalysis.ai** is an AI-powered personal color analysis tool that helps you discover the colors that best enhance your natural features. By uploading a photo, the system analyzes your skin tone, hair color, and facial contrast to generate a personalized color palette and styling suggestions. 
+Try here:https://aicoloranalysis.ai/
 
 ---
 
@@ -15,7 +16,7 @@ AIColorAnalysis uses advanced artificial intelligence to:
 - 📊 **Actionable recommendations** – Practical tips for wardrobe, makeup, and personal style based on your palette  
 - 👩‍🎨 **Explore colors that flatter** – Highlights shades to avoid as well as best-fit colors  
 
-All analyses are designed to be **fast, intuitive, and visually guided** so you can make confident style decisions. :contentReference[oaicite:2]{index=2}
+All analyses are designed to be **fast, intuitive, and visually guided** so you can make confident style decisions. 
 
 ---
 
@@ -26,7 +27,7 @@ All analyses are designed to be **fast, intuitive, and visually guided** so you 
 3. **View your result** – Receive your seasonal type and personalized color palette  
 4. **Apply your colors** – Use the recommendations for outfits, makeup, hair, and accessories
 
-This process typically takes only a few minutes and requires no color-theory expertise. :contentReference[oaicite:3]{index=3}
+This process typically takes only a few minutes and requires no color-theory expertise.
 
 ---
 
@@ -39,7 +40,7 @@ Traditional color analysis sessions with a stylist can be expensive and time-con
 - 📍 **Accessible 24/7 from anywhere**
 - 👗 **Actionable, personalized color guidance**
 
-No need to rely on guesswork or in-person appointments — the tool helps you understand your best colors quickly and affordably. :contentReference[oaicite:4]{index=4}
+No need to rely on guesswork or in-person appointments — the tool helps you understand your best colors quickly and affordably. 
 
 ---
 
@@ -51,10 +52,9 @@ No need to rely on guesswork or in-person appointments — the tool helps you un
 ✔ Preview hair colors before dyeing  
 ✔ Create cohesive style combinations
 
-Whether you’re building a new wardrobe or just want styling confidence, AIColorAnalysis makes color choice simple and fun. :contentReference[oaicite:5]{index=5}
+Whether you’re building a new wardrobe or just want styling confidence, AIColorAnalysis makes color choice simple and fun. 
 
 ---
 
-## 📁 Suggested Repo Layout
 
 
